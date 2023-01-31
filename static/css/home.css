@@ -1,0 +1,23 @@
+body {
+    background: #13747d !important;
+}
+
+.frame {
+    margin: 25px;
+    background-color: white;
+}
+
+.content {
+    padding: 20px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+}
+
+.cardd {
+    border-radius: 5%;
+    border-style: solid double;
+    background-color: white;
+}
